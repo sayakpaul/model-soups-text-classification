@@ -1,4 +1,4 @@
-# Model Soups for Text Classification
+# Model Soups for Text Classification 🍜
 
 Shows an implementation of model soups [1] for text classification models.
 
