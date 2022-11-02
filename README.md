@@ -16,4 +16,4 @@ TBA
 
 ## References
 
-[1] [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482)
+[1] [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) (ICML 2022)
